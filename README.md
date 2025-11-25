@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Jardel (Jarde)
+# 👋 Hi, I'm José Jardel
 
-### Industrial Automation | Cloud Architecture | Machine Learning | Security & Compliance
+### Information Security, Cibersecurity and Compliance | Industrial Automation | Cloud Architecture | Machine Learning
 
 <p>
   Building <b>secure, scalable, data-driven industrial systems</b><br>
@@ -68,6 +68,7 @@
       <img src="https://img.shields.io/badge/Cloud-Security-FF9900?style=flat-square" alt="Cloud Security"/>
       <img src="https://img.shields.io/badge/CSA-Aligned-purple?style=flat-square" alt="CSA"/>
       <img src="https://img.shields.io/badge/LGPD-Compliance-blue?style=flat-square" alt="LGPD"/>
+      <img src="https://img.shields.io/badge/GDPR-Compliance-1e90ff?style=flat-square" alt="GDPR"/>
     </td>
     <td align="center" width="20%">
       <h4>🤖 Data & ML</h4>
