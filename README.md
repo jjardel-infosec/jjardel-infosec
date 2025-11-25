@@ -112,11 +112,11 @@
 
 I'm passionate about creating industrial ecosystems that are:
 
-✅ **Secure** 🛡️ — ISO 27001 aligned, hardened networks  
-✅ **Scalable** ☁️ — Cloud-first, serverless, globally distributed  
-✅ **Reliable** ⚙️ — Redundancy, high availability, edge resiliency  
-✅ **Data-Driven** 📈 — Real-time analytics, predictive insights  
-✅ **Future-Ready** 🚀 — AI-enabled, adaptive, continuous improvement  
+✅ **Secure** 🛡️ ISO 27001 aligned, hardened networks  
+✅ **Scalable** ☁️ Cloud-first, serverless, globally distributed  
+✅ **Reliable** ⚙️ Redundancy, high availability, edge resiliency  
+✅ **Data-Driven** 📈 Real-time analytics, predictive insights  
+✅ **Future-Ready** 🚀 AI-enabled, adaptive, continuous improvement  
 
 ---
 
