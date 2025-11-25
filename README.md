@@ -59,10 +59,12 @@
     <td align="center" width="20%">
       <h4>🔐 Cybersecurity</h4>
       <img src="https://img.shields.io/badge/ISMS-Audit-success?style=flat-square" alt="ISMS"/>
-      <img src="https://img.shields.io/badge/ISO-27001-success?style=flat-square" alt="ISO"/>
+      <img src="https://img.shields.io/badge/ISO-27001-success?style=flat-square" alt="ISO 27001"/>
+      <img src="https://img.shields.io/badge/ISO-27005-success?style=flat-square" alt="ISO 27005"/>
       <img src="https://img.shields.io/badge/NIST-CSF-red?style=flat-square" alt="NIST CSF"/>
       <img src="https://img.shields.io/badge/Blue-Team-0066cc?style=flat-square" alt="Blue Team"/>
       <img src="https://img.shields.io/badge/Red-Team-ff6b6b?style=flat-square" alt="Red Team"/>
+      <img src="https://img.shields.io/badge/Offensive-Security-ff4444?style=flat-square" alt="Offensive Security"/>
       <img src="https://img.shields.io/badge/Cloud-Security-FF9900?style=flat-square" alt="Cloud Security"/>
       <img src="https://img.shields.io/badge/CSA-Aligned-purple?style=flat-square" alt="CSA"/>
       <img src="https://img.shields.io/badge/LGPD-Compliance-blue?style=flat-square" alt="LGPD"/>
@@ -121,7 +123,7 @@ I'm passionate about creating industrial ecosystems that are:
 
 <div align="center">
 
-[📧 Email](mailto:jardel@outlook.com.br) | [💼 LinkedIn](https://www.linkedin.com/in/jose-jardel-lgpd-cybersecurity/) | [🌐 Website](https://jardel.tec.br) | [🐙 GitHub](https://github.com)
+[📧 Email](mailto:jardel@outlook.com.br) | [💼 LinkedIn](https://www.linkedin.com/in/jose-jardel-lgpd-cybersecurity/) | [🌐 Website](https://jardel.tec.br) | [🐙 GitHub](https://github.com/jjardel-infosec)
 
 </div>
 
